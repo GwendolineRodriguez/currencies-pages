@@ -1,2 +1,16 @@
-title: Currencies App Legal Documents
-theme: jekyll-theme-minimal
+title: Currencies Legal Documentation
+email: support@fxpulse.dev
+description: >-
+  Privacy Policy and Terms and Conditions for the Currencies mobile application.
+url: "https://gwendolinerodriguez.github.io" # Base domain
+baseurl: "" # Repository name/subpath
+theme: null # Ensure no default theme is loaded
+
+plugins:
+  - jekyll-redirect-from
+
+markdown: kramdown
+
+exclude:
+  - .github
+  - .vscode

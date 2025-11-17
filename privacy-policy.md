@@ -1,4 +1,15 @@
-# 🔒 Privacy Policy for Currencies
+---
+# privacy-policy.md
+layout: default
+title: Privacy Policy
+# This sets the final destination file path
+permalink: /privacy-policy.html
+# This tells the plugin to create a redirect from this clean, short path
+redirect_from:
+  - /privacy/
+---
+
+# Privacy Policy for Currencies
 
 Effective Date: November 17, 2025
 
