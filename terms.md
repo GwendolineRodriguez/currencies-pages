@@ -11,7 +11,7 @@ redirect_from:
 
 # Terms and Conditions ("Terms") for Currencies
 
-Effective Date: November 17, 2025
+Effective Date: November 30, 2025
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Currencies mobile application (the "App") operated by its developer (referred to as "us", "we", or "our").
 

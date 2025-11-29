@@ -11,7 +11,7 @@ redirect_from:
 
 # Privacy Policy for Currencies
 
-Effective Date: November 17, 2025
+Effective Date: November 30, 2025
 
 This Privacy Policy informs you regarding our policies concerning the collection, use, and disclosure of personal data when you use our application, Currencies (the "App"), and the choices you have associated with that data.
 
@@ -33,42 +33,52 @@ The App, Currencies, is designed to function with maximum anonymity and privacy.
 
 We do not collect any Personal Data from users.
 
-"Personal Data" means data about a living individual who can be identified from that data (or from those and other information either in our possession or likely to come into our possession). Since the App does not require account creation, payment, or the input of personal identifiers, no such data is collected or processed.
+"Personal Data" means data about a living individual who can be identified from that data (or from those and other information either in our possession or likely to come into our possession). Currencies does not require you to create an account, provide personal information, or register in any way. Any StoreKit purchases (such as removing ads or sending tips) are processed directly by Apple. We do not receive any Personal Data from Apple during these purchases.
 
 ##### B. Usage Data
 
-We do not use any third-party analytics services (such as Google Analytics or Firebase) to track or record your usage of the App.
+We do not use analytics tools (such as Google Analytics or Firebase) to track your behavior or identify you.
 
-We may temporarily process non-personally identifiable technical information locally on your device (such as the currency pairs you select) purely to deliver the core functionality of the currency conversion service. This technical data is not transmitted to us or any third party.
+The App may process technical information locally on your device (e.g., your selected currencies or preferences) solely to operate the App. This information is not transmitted to us or any third party.
 
 ### 3. Storage and Security of Data
 
-Since we do not collect, store, or transmit any Personal Data, the risks associated with data breaches are mitigated.
+We do not collect or store Personal Data.
 
-The only information processed is stored locally on your device and is subject to the security measures of your operating system (iOS, Android, etc.).
+Any data processed within the App is stored only on your device and is protected by your device's operating system.
 
 ### 4. Third-Party Services and Advertising
 
-Currencies does not rely on any third-party services for advertising or analytics.
+##### A. Google AdMob (Non-Personalized Ads Only)
 
-There are no advertisements in the App.
+Currencies uses Google AdMob to display ads.
+To protect your privacy, the App requests only non-personalized ads, meaning:
+Google does not use your behavior across apps or websites to target ads
+Ads are based solely on contextual information (e.g., app category, general region)
+No identifiers are used to build advertising profiles
+Google may still receive basic device data required for delivering non-personalized ads (e.g., IP address, device type). This data is processed under Google’s privacy policy.
 
-We do not use third-party analytics tools (like Google Analytics, Firebase, or similar services).
+##### B. In-App Purchases
+
+The App offers optional StoreKit purchases:
+Remove Ads: a non-consumable purchase that disables all advertising within the App
+Tips: voluntary in-app purchases that support the developer
+All purchases are handled by Apple through the App Store.
+We do not receive any payment details or personal purchaser information.
 
 ### 5. Children's Privacy
 
-The App does not address anyone under the age of 13 ("Children").
-
-As we do not knowingly collect any Personal Data from anyone, we certainly do not knowingly collect Personal Data from children. If you are a parent or guardian and you are aware that your Children have provided us with Personal Data, please contact us.
+The App does not target children under the age of 13.
+We do not knowingly collect any Personal Data from any user.
 
 ### 6. Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App and updating the "Effective Date" at the top of this Privacy Policy.
+We may update this Privacy Policy from time to time. Updates will be posted within the App with a new “Effective Date.”
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+You are encouraged to review this Privacy Policy periodically.
 
 ### 7. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us by email:
+If you have any questions about this Privacy Policy, please contact us at:
 
 support@fxpulse.dev
