@@ -81,4 +81,4 @@ You are encouraged to review this Privacy Policy periodically.
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-support@fxpulse.dev
+[support@fxpulse.dev](mailto:support@fxpulse.dev)

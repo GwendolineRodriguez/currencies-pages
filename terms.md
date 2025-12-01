@@ -89,4 +89,4 @@ By continuing to access or use our App after those revisions become effective, y
 
 If you have any questions about these Terms, please contact us at:
 
-support@fxpulse.dev
+[support@fxpulse.dev](mailto:support@fxpulse.dev)

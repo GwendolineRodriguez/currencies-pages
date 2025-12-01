@@ -45,4 +45,4 @@ While we are focused on providing the best experience for standard fiat currenci
 
 If your question wasn't answered above, please don't hesitate to reach out. We are happy to help!
 
-Email: [[support@fxpulse.dev](mailto:support@fxpulse.dev)]
+[support@fxpulse.dev](mailto:support@fxpulse.dev)
