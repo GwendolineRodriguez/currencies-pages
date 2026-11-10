@@ -11,7 +11,7 @@ redirect_from:
 
 # Privacy Policy for Currencies
 
-Effective Date: November 30, 2025
+Effective Date: November 10, 2026
 
 This Privacy Policy informs you regarding our policies concerning the collection, use, and disclosure of personal data when you use our application, Currencies (the "App"), and the choices you have associated with that data.
 
@@ -33,13 +33,21 @@ The App, Currencies, is designed to function with maximum anonymity and privacy.
 
 We do not collect any Personal Data from users.
 
-"Personal Data" means data about a living individual who can be identified from that data (or from those and other information either in our possession or likely to come into our possession). Currencies does not require you to create an account, provide personal information, or register in any way. Any StoreKit purchases (such as removing ads or sending tips) are processed directly by Apple. We do not receive any Personal Data from Apple during these purchases.
+"Personal Data" means data about a living individual who can be identified from that data (or from those and other information either in our possession or likely to come into our possession). Currencies does not require you to create an account, provide personal information, or register in any way. Any StoreKit purchases (such as Currencies Pro, removing ads or sending tips) are processed directly by Apple. We do not receive any Personal Data from Apple during these purchases.
 
 ##### B. Usage Data
 
 We do not use analytics tools (such as Google Analytics or Firebase) to track your behavior or identify you.
 
 The App may process technical information locally on your device (e.g., your selected currencies or preferences) solely to operate the App. This information is not transmitted to us or any third party.
+
+##### C. Camera
+
+The price scan feature uses your device's camera to read price tags and convert them into your currencies. The App asks for your permission before accessing the camera, and you can change this at any time in your device's Settings.
+
+The camera feed is processed entirely on your device using Apple's built-in text recognition. The App does not take or save photos, and no images, video or scanned text are stored, transmitted to us or shared with any third party.
+
+The App keeps a count of the free scans you have used, stored only on your device, to know when the free scans are used up.
 
 ### 3. Storage and Security of Data
 
@@ -61,8 +69,10 @@ Google may still receive basic device data required for delivering non-personali
 ##### B. In-App Purchases
 
 The App offers optional StoreKit purchases:
+Currencies Pro: Pro Yearly (an auto-renewable subscription), Travel Pass (7 days, non-renewing) and Pro Lifetime (one-time purchase), which unlock all Pro features and remove advertising
 Remove Ads: a non-consumable purchase that disables all advertising within the App
 Tips: voluntary in-app purchases that support the developer
+The App checks your purchase and subscription status on your device through Apple's StoreKit. This information is not sent to us.
 All purchases are handled by Apple through the App Store.
 We do not receive any payment details or personal purchaser information.
 
